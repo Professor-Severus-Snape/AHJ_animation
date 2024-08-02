@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+div,
+button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background-color: lightgrey;
+}
