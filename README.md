@@ -1,5 +1,7 @@
 # Домашнее задание к занятию "9. Анимации и CSS"
 
+[![Build status](https://ci.appveyor.com/api/projects/status/a7ca24e8myxe49yu?svg=true)](https://ci.appveyor.com/project/Professor-Severus-Snape/ahj-animation)
+
 Правила сдачи задания:
 
 1. В рамках этого ДЗ можно использовать любой менеджер пакетов.
