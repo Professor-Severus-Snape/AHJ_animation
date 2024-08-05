@@ -2,5 +2,6 @@ import './css/style.css';
 import App from './js/App';
 
 document.addEventListener('DOMContentLoaded', () => {
-  App.init();
+  const app = new App();
+  app.init();
 });
